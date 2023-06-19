@@ -1,21 +1,9 @@
 <header class="main-header header-style-one">
-
 <!--Start Header Top-->
 <div class="header-top">
     <div class="auto-container">
         <div class="outer-box">
             <div class="header-top-left">
-                <div class="info-box">
-                    <span class="icon-info"></span>
-                    <p>Info for</p>
-                </div>
-                <div class="select-box">
-                    <select class="wide" id="info">
-                        <option data-display="">Students</option>
-                        <option value="1">Teacher</option>
-                        <option value="2">Students</option>
-                    </select>
-                </div>
                 <div class="subscribe-box">
                     <div class="icon">
                         <span class="icon-email"></span>
@@ -46,17 +34,13 @@
 
             <div class="header-top-right">
                 <div class="quick-link-box">
-                    <div class="inner-title">
+                    <!-- <div class="inner-title">
                         <span class="icon-launch"></span>
                         <p>Quick Links</p>
-                    </div>
+                    </div> -->
                     <div class="link-box">
                         <ul>
-                            <li><a href="#">Calendars</a></li>
-                            <li><a href="#">Directory</a></li>
-                            <li><a href="#">Visit</a></li>
-                            <li><a href="#">Careers</a></li>
-                            <li><a href="#">Give</a></li>
+                            <li><a href="#">Enquire</a></li>
                         </ul>
                     </div>
                 </div>
@@ -119,137 +103,20 @@
 
                         <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                             <ul class="navigation clearfix">
-                                <li class="dropdown megamenu current"><a href="#">Home</a>
-                                    <ul class="mega_menuv2">
-                                        <div class="row">
-                                          <div class="col">
-                                            <a href="index.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/1/home-1.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">University Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                          <div class="col">
-                                            <a href="index-2.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/2/home-4.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">Kindergarten Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                          <div class="col">
-                                            <a href="index-3.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/3/home-2.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">Academy  Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                          <div class="col">
-                                            <a href="index-4.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/4/home-3.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">Instructor  Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                          <div class="col">
-                                            <a href="index-5.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/5/home-10.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">Marketplace  Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                        </div>
-                                        <div class="row">
-                                          <div class="col">
-                                            <a href="index-6.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/6/home-9.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">Single Course  Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                          <div class="col">
-                                            <a href="index-7.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/7/home-6.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">Cooking Course  Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                          <div class="col">
-                                            <a href="index-8.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/8/home-7.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">Quiz Learning  Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                          <div class="col">
-                                            <a href="index-9.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/9/home-5.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">College  Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                          <div class="col">
-                                            <a href="index-10.html" class="mfbox">
-                                                <img src="{{asset('assets/images/home/10/home-8.jpg')}}" class="img-fluid" alt="img" />
-                                            </a>
-                                            <div class="arrow">High School  Demo <i class="fa fa-angle-right"></i></div>
-                                          </div>
-                                        </div>
-                                      </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Pages</a>
+                                 <li><a href="/">Home</a></li>
+                                 <li><a href="/">Why Canada?</a></li>
+                                <li class="dropdown"><a href="#">Immigration Dreamz</a>
                                     <ul>
-                                        <li><a href="about.html">About University</a></li>
+                                        <li><a href="about.html">Your true guide to Canada</a></li>
                                         <li>
-                                            <a href="events.html">Events Style 01</a>
-                                        </li>
-                                        <li>
-                                            <a href="events-2.html">Events Style 02</a>
-                                        </li>
-                                        <li>
-                                            <a href="events-3.html">Events Style 03</a>
-                                        </li>
-                                        <li>
-                                            <a href="events-details.html">Events Details</a>
-                                        </li>
-                                        <li>
-                                            <a href="faq.html">Faq’s Page</a>
-                                        </li>
-                                        <li>
-                                            <a href="error.html">Error Page</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#">Academics</a>
-                                    <ul>
-                                        <li>
-                                            <a href="academics-overview.html">
-                                                University Overview
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="campus-life.html">
-                                                University Campus Life
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="departments.html">
-                                                University Departments
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="university-programs.html">
-                                                University Programs
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="programs-detail.html">
-                                                University Programs Details
-                                            </a>
+                                            <a href="events.html">Why ID vs other consultancies</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="blank-box"></li>
-                                <li><a href="university-admissions.html">Admissions</a></li>
-                                <li class="dropdown"><a href="#">Blog</a>
-                                    <ul>
-                                        <li><a href="bloggrid">Blog Grid View</a></li>
-                                        <li><a href="bloglist">Blog List View</a></li>
-                                        <li><a href="bloglarge">Blog Large View</a></li>
-                                        <li><a href="blogdetails">Blog Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="/">IELTS</a></li>
+                                <li><a href="/">Blog</a></li>
+                                <li><a href="/">Contact us</a></li>
                             </ul>
                         </div>
 

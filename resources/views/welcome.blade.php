@@ -15,6 +15,8 @@
         rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&display=swap"
         rel="stylesheet">
+         
+        <!-- <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> -->
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
@@ -437,9 +439,9 @@
         <section class="departments-area">
             <div class="container">
                 <div class="sec-title text-center">
-                    <h2>Study at Educamb</h2>
+                    <h2>Study at Immigration Dreamz</h2>
                     <div class="sub-title">
-                        <p>How all this mistaken idea of denouncing pleasure and praising pain was born.</p>
+                        <p>Indian flight in take-off mode.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -566,8 +568,7 @@
                                         <div class="sec-title">
                                             <h2>Explore the Future</h2>
                                             <div class="sub-title">
-                                                <p>Our power of choice is untrammelled & when
-                                                    nothing prevents.</p>
+                                                <p>Pics of best colleges of Canada.</p>
                                             </div>
                                         </div>
                                         <ul class="tab-btns clearfix">
@@ -805,7 +806,7 @@
         <!--End Fact Counter Area-->
 
         <!--Start Teaching Area-->
-        <section class="teaching-area">
+        <!-- <section class="teaching-area">
             <div class="auto-container">
                 <div class="row">
                     <div class="col-xl-6">
@@ -874,11 +875,11 @@
 
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--End Teaching Area-->
 
         <!--Start Statements Area-->
-        <section class="statements-area">
+        <!-- <section class="statements-area">
             <div class="auto-container">
                 <div class="row">
 
@@ -962,7 +963,7 @@
 
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--End Statements Area-->
 
         <!--Start Research Area-->
@@ -970,9 +971,9 @@
             <div class="auto-container">
 
                 <div class="sec-title text-center">
-                    <h2>Research & Innovation</h2>
+                    <h2>Graduated Students</h2>
                     <div class="sub-title">
-                        <p>Business it will frequently occur that pleasures have to repudiated and accepted.</p>
+                        <p>Pictures of jumping students in the graduation gowns.</p>
                     </div>
                 </div>
 
@@ -1217,7 +1218,7 @@
                                 <span class="icon-download"></span>
                             </div>
                             <div class="sec-title">
-                                <h2>Get Ready to<br> Study With Virtual Store</h2>
+                                <h2>Need Any Help?<br>Get in touch with us</h2>
                                 <div class="sub-title">
                                     <p>For a customized list of course materials, use our course
                                         materials finder.
@@ -1226,16 +1227,42 @@
                             </div>
                             <div class="virtual-store-form-box">
                                 <form class="virtual-store-form" action="#">
-                                    <input type="text" name="topics-search" placeholder="Search by topics...">
-                                    <button class="btn-one" type="submit">
-                                        <span class="txt"><span class="icon-zoom"></span></span>
-                                    </button>
-                                </form>
-                                <div class="btns-box">
-                                    <a class="btn-one" href="about.html">
-                                        <span class="txt">Download</span>
-                                    </a>
+                                <div class="row">
+							       <div class="col-sm-6">
+                                        <div class="mb-3">
+									          <input name="form_name" class="form-control" type="text" placeholder="Enter Name">
+								        </div>
+							        </div>
+							        <div class="col-sm-6">
+								          <div class="mb-3">
+									          <input name="form_email" class="form-control required email" type="email" placeholder="Enter Email">
+								        </div>
+							       </div>
+						        </div>
+                                <div class="row">
+							        <div class="col-sm-6">
+							          	<div class="mb-3">
+									       <input name="form_subject" class="form-control required" type="text" placeholder="Enter Subject">
+								        </div>
+							        </div>
+                                    <div class="col-sm-6">
+								      <div class="mb-3">
+									      <input name="form_phone" class="form-control" type="number"  placeholder="Enter Phone">
+								      </div>
+							    </div>
                                 </div>
+                                <div class="row">
+                                  <div class="mb-3">
+							          <textarea name="form_message" type="text" class="form-control required"  placeholder="Enter Message"></textarea>
+					              </div>
+                               </div> 
+						</div>
+                        <div class="btns-box">
+                                    <a class="btn-one" href="#">
+                                        <span class="txt">Send Message</span>
+                                    </a>
+                        </div>
+                                </form>
                             </div>
 
                         </div>
@@ -1244,6 +1271,245 @@
             </div>
         </section>
         <!--End Virtual Store Area-->
+        <!-- People worknig in the mnc -->
+        <section class="research-area">
+            <div class="auto-container">
+
+                <div class="sec-title text-center">
+                    <h2>People Got Placed In MNC</h2>
+                    <div class="sub-title">
+                        <p>Pictures of young people working in the MNC.</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="theme_carousel research-carousel owl-theme owl-carousel owl-dot-style1"
+                            data-options='{
+                                    "loop": true, 
+                                    "margin": 30, 
+                                    "autoheight":true, 
+                                    "lazyload":true, 
+                                    "nav": false, 
+                                    "dots": true, 
+                                    "autoplay": true, 
+                                    "autoplayTimeout": 5000, 
+                                    "smartSpeed": 500, 
+                                    "navText": ["<span class=\"left icon-right-arrow-1\"></span>",
+                                    "<span class=\"right icon-right-arrow-1\"></span>"], 
+                                    "responsive":{ 
+                                    "0" :{ "items": "1" }, 
+                                    "600" :{ "items" : "1" }, 
+                                    "768" :{ "items" : "1" }, 
+                                    "1200":{ "items" : "2" }, 
+                                    "1800":{ "items" : "3" }
+                                }
+                            }'>
+
+                            <!--Start Single Research Box-->
+                            <div class="single-research-box">
+                                <div class="img-holder">
+                                    <img src="assets/images/resources/research-1.jpg" alt="">
+                                    <div class="icon">
+                                        <span class="icon-research"></span>
+                                    </div>
+                                    <div class="overlay-icon">
+                                        <span class="icon-research"></span>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="inner-title">
+                                        <h3><a href="#">Culture<br> & Creativity</a></h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Through shrinking from at toil & pain
+                                            these cases are perfectly...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Research Box-->
+                            <!--Start Single Research Box-->
+                            <div class="single-research-box">
+                                <div class="img-holder">
+                                    <img src="assets/images/resources/research-2.jpg" alt="">
+                                    <div class="icon">
+                                        <span class="icon-test-tube"></span>
+                                    </div>
+                                    <div class="overlay-icon">
+                                        <span class="icon-test-tube"></span>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="inner-title">
+                                        <h3><a href="#">Health<br> & Medicine</a></h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Foresee the pain that are bound to ensue and equal blame...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Research Box-->
+                            <!--Start Single Research Box-->
+                            <div class="single-research-box">
+                                <div class="img-holder">
+                                    <img src="assets/images/resources/research-3.jpg" alt="">
+                                    <div class="icon">
+                                        <span class="icon-web"></span>
+                                    </div>
+                                    <div class="overlay-icon">
+                                        <span class="icon-web"></span>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="inner-title">
+                                        <h3><a href="#">Science<br> & Technology</a></h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Prevents our being able to do what
+                                            we like best every pleasure...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Research Box-->
+
+                            <!--Start Single Research Box-->
+                            <div class="single-research-box">
+                                <div class="img-holder">
+                                    <img src="assets/images/resources/research-1.jpg" alt="">
+                                    <div class="icon">
+                                        <span class="icon-research"></span>
+                                    </div>
+                                    <div class="overlay-icon">
+                                        <span class="icon-research"></span>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="inner-title">
+                                        <h3><a href="#">Culture<br> & Creativity</a></h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Through shrinking from at toil & pain
+                                            these cases are perfectly...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Research Box-->
+                            <!--Start Single Research Box-->
+                            <div class="single-research-box">
+                                <div class="img-holder">
+                                    <img src="assets/images/resources/research-2.jpg" alt="">
+                                    <div class="icon">
+                                        <span class="icon-test-tube"></span>
+                                    </div>
+                                    <div class="overlay-icon">
+                                        <span class="icon-test-tube"></span>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="inner-title">
+                                        <h3><a href="#">Health<br> & Medicine</a></h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Foresee the pain that are bound to ensue and equal blame...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Research Box-->
+                            <!--Start Single Research Box-->
+                            <div class="single-research-box">
+                                <div class="img-holder">
+                                    <img src="assets/images/resources/research-3.jpg" alt="">
+                                    <div class="icon">
+                                        <span class="icon-web"></span>
+                                    </div>
+                                    <div class="overlay-icon">
+                                        <span class="icon-web"></span>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="inner-title">
+                                        <h3><a href="#">Science<br> & Technology</a></h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Prevents our being able to do what
+                                            we like best every pleasure...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Research Box-->
+
+                            <!--Start Single Research Box-->
+                            <div class="single-research-box">
+                                <div class="img-holder">
+                                    <img src="assets/images/resources/research-1.jpg" alt="">
+                                    <div class="icon">
+                                        <span class="icon-research"></span>
+                                    </div>
+                                    <div class="overlay-icon">
+                                        <span class="icon-research"></span>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="inner-title">
+                                        <h3><a href="#">Culture<br> & Creativity</a></h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Through shrinking from at toil & pain
+                                            these cases are perfectly...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Research Box-->
+                            <!--Start Single Research Box-->
+                            <div class="single-research-box">
+                                <div class="img-holder">
+                                    <img src="assets/images/resources/research-2.jpg" alt="">
+                                    <div class="icon">
+                                        <span class="icon-test-tube"></span>
+                                    </div>
+                                    <div class="overlay-icon">
+                                        <span class="icon-test-tube"></span>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="inner-title">
+                                        <h3><a href="#">Health<br> & Medicine</a></h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Foresee the pain that are bound to ensue and equal blame...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Research Box-->
+                            <!--Start Single Research Box-->
+                            <div class="single-research-box">
+                                <div class="img-holder">
+                                    <img src="assets/images/resources/research-3.jpg" alt="">
+                                    <div class="icon">
+                                        <span class="icon-web"></span>
+                                    </div>
+                                    <div class="overlay-icon">
+                                        <span class="icon-web"></span>
+                                    </div>
+                                </div>
+                                <div class="overlay-content">
+                                    <div class="inner-title">
+                                        <h3><a href="#">Science<br> & Technology</a></h3>
+                                    </div>
+                                    <div class="text">
+                                        <p>Prevents our being able to do what
+                                            we like best every pleasure...</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Single Research Box-->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End people working in the mnc -->
 
         <!--Start Events Style1 Area-->
         <section class="event-style1-area">
@@ -1835,248 +2101,7 @@
         <!--End Blog Style1 Area-->
 
         <!--Start social activity Area-->
-        <section class="social-activity-area">
-            <div class="auto-container">
-                <div class="social-activity-content">
-
-                    <div class="single-social-activity-box width40">
-                        <!--Start Single Social Activity Box Inner-->
-                        <div class="single-social-activity-box__inner">
-                            <div class="row">
-                                <div class="col-xl-6">
-                                    <div class="img-box-outer">
-                                        <div class="img-box"
-                                            style="background-image: url(assets/images/resources/social-activity-1.jpg);">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6">
-                                    <div class="text-box">
-                                        <div class="top-box">
-                                            <div class="social-link">
-                                                <a href="#">
-                                                    <span class="icon-facebook"><span class="path1"></span><span
-                                                            class="path2"></span><span class="path3"></span><span
-                                                            class="path4"></span><span class="path5"></span></span>
-                                                </a>
-                                            </div>
-                                            <div class="date-box">
-                                                <p>Nov 14, 2022</p>
-                                            </div>
-                                        </div>
-                                        <div class="inner-title">
-                                            <h3><a href="#">@educamb.co.in</a></h3>
-                                        </div>
-                                        <div class="text">
-                                            <p>
-                                                On the other hand we denounced with #righteous indignation dislikes
-                                                men who are so... <a href="#">Read More</a>
-                                            </p>
-                                        </div>
-                                        <div class="post-info">
-                                            <ul>
-                                                <li>
-                                                    <span class="icon-heart-1"></span><a href="#">10</a>
-                                                </li>
-                                                <li>
-                                                    <span class="icon-chat"></span><a href="#">06</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--End Single Social Activity Box Inner-->
-                        <!--Start Single Social Activity Box Inner-->
-                        <div class="single-social-activity-box__inner">
-                            <div class="single-social-activity-box__inner-img-bg"
-                                style="background-image: url(assets/images/resources/social-activity-2.jpg);"></div>
-                            <div class="row">
-                                <div class="col-xl-6">
-                                    <div class="text-box text-box--style3">
-                                        <div class="top-box">
-                                            <div class="social-link">
-                                                <a href="#">
-                                                    <span class="icon-twitter"><span class="path1"></span><span
-                                                            class="path2"></span><span class="path3"></span><span
-                                                            class="path4"></span></span>
-                                                </a>
-                                            </div>
-                                            <div class="date-box">
-                                                <p>Sep 06, 2022</p>
-                                            </div>
-                                        </div>
-                                        <div class="inner-title">
-                                            <h3><a href="#">@educamb.co.in</a></h3>
-                                        </div>
-                                        <div class="text">
-                                            <p>
-                                                Blinded by desire, that they cannot foresee <a
-                                                    href="#">http://e.camb/ely</a> pain and trouble that bound to ensue.
-                                            </p>
-                                        </div>
-                                        <div class="post-info">
-                                            <ul>
-                                                <li>
-                                                    <span class="icon-heart-1"></span><a href="#">26</a>
-                                                </li>
-                                                <li>
-                                                    <span class="icon-chat"></span><a href="#">17</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--End Single Social Activity Box Inner-->
-                    </div>
-
-                    <!--Start Single Social Activity Box-->
-                    <div class="single-social-activity-box width20">
-                        <div class="single-social-activity-box__inner">
-                            <div class="img-box-outer heigh302">
-                                <div class="img-box"
-                                    style="background-image: url(assets/images/resources/social-activity-3.jpg);">
-                                </div>
-                            </div>
-                            <div class="text-box text-box--style2">
-                                <div class="top-box">
-                                    <div class="social-link">
-                                        <a href="#">
-                                            <span class="icon-twitter"><span class="path1"></span><span
-                                                    class="path2"></span><span class="path3"></span><span
-                                                    class="path4"></span></span>
-                                        </a>
-                                    </div>
-                                    <div class="date-box">
-                                        <p>Aug 21, 2022</p>
-                                    </div>
-                                </div>
-                                <div class="inner-title">
-                                    <h3><a href="#">@educamb.co.in</a></h3>
-                                </div>
-                                <div class="text">
-                                    <p>
-                                        Blinded by desire, that they cannot foresee <a href="">http://e.camb/ely</a>
-                                        pain and trouble that bound to ensue.
-                                    </p>
-                                </div>
-                                <div class="post-info">
-                                    <ul>
-                                        <li>
-                                            <span class="icon-heart-1"></span><a href="#">26</a>
-                                        </li>
-                                        <li>
-                                            <span class="icon-chat"></span><a href="#">17</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Single Social Activity Box-->
-
-
-                    <div class="single-social-activity-box width40">
-                        <!--Start Single Social Activity Box Inner-->
-                        <div class="single-social-activity-box__inner">
-                            <div class="row">
-                                <div class="col-xl-6">
-                                    <div class="text-box text-box--style4">
-                                        <div class="top-box">
-                                            <div class="social-link">
-                                                <a href="#">
-                                                    <span class="icon-twitter"><span class="path1"></span><span
-                                                            class="path2"></span><span class="path3"></span><span
-                                                            class="path4"></span></span>
-                                                </a>
-                                            </div>
-                                            <div class="date-box">
-                                                <p>Aug 21, 2022</p>
-                                            </div>
-                                        </div>
-                                        <div class="inner-title">
-                                            <h3><a href="#">@educamb.co.in</a></h3>
-                                        </div>
-                                        <div class="text">
-                                            <p>
-                                                Blinded by desire, that they cannot foresee <a
-                                                    href="#">http://e.camb/ely</a> pain and trouble that bound to ensue.
-                                            </p>
-                                        </div>
-                                        <div class="post-info">
-                                            <ul>
-                                                <li>
-                                                    <span class="icon-heart-1"></span><a href="#">10</a>
-                                                </li>
-                                                <li>
-                                                    <span class="icon-chat"></span><a href="#">06</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6">
-                                    <div class="img-box-outer">
-                                        <div class="img-box"
-                                            style="background-image: url(assets/images/resources/social-activity-4.jpg);">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--Start Single Social Activity Box Inner-->
-                        <!--Start Single Social Activity Box Inner-->
-                        <div class="single-social-activity-box__inner">
-                            <div class="single-social-activity-box__inner-img-bg style2"
-                                style="background-image: url(assets/images/resources/social-activity-5.jpg);"></div>
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <div class="text-box text-box--style5">
-                                        <div class="top-box">
-                                            <div class="social-link">
-                                                <a href="#">
-                                                    <span class="icon-facebook"><span class="path1"></span><span
-                                                            class="path2"></span><span class="path3"></span><span
-                                                            class="path4"></span><span class="path5"></span></span>
-                                                </a>
-                                            </div>
-                                            <div class="date-box">
-                                                <p>Sep 06, 2022</p>
-                                            </div>
-                                        </div>
-                                        <div class="inner-title">
-                                            <h3><a href="#">@educamb.co.in</a></h3>
-                                        </div>
-                                        <div class="text">
-                                            <p>
-                                                Blinded by desire, that they cannot foresee <a
-                                                    href="#">http://e.camb/ely</a> pain and trouble that bound to ensue.
-                                            </p>
-                                        </div>
-                                        <div class="post-info">
-                                            <ul>
-                                                <li>
-                                                    <span class="icon-heart-1"></span><a href="#">26</a>
-                                                </li>
-                                                <li>
-                                                    <span class="icon-chat"></span><a href="#">17</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!--End Single Social Activity Box Inner-->
-                    </div>
-
-
-                </div>
-            </div>
-        </section>
+    
         <!--End social activity Area-->
 
         <!--Start Partner Area-->
@@ -2150,15 +2175,6 @@
                     <!--End Single Partner Logo Box-->
                 </div>
 
-                <div class="row">
-                    <div class="col-xl-12 text-center">
-                        <div class="btns-box">
-                            <a class="btn-one" href="about.html">
-                                <span class="txt">All Companies</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
 
             </div>
         </section>
@@ -2187,12 +2203,9 @@
         </section>
         <!--End Slogan Style1 Area-->
 
-
-        <div class="bottom-parallax">
-            <!--Start footer area -->
+     
                 @include('footer')
-            <!--End footer area-->
-        </div>
+    
 
 
         <button class="scroll-top scroll-to-target" data-target="html">
