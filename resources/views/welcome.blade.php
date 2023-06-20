@@ -15,57 +15,53 @@
         rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&display=swap"
         rel="stylesheet">
-         
-        <!-- <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> -->
-
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
-
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"> -->
+        
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-    <link rel="stylesheet" href="{{asset('assets/css/animate.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/aos.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/custom-animate.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/fancybox.min.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/flaticon.css')}}">
-    <!-- <link rel="stylesheet" href="assets/css/font-awesome.min.css"> -->
-    <link rel="stylesheet" href="{{asset('assets/css/icomoon.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/imp.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/jquery.bootstrap-touchspin.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/magnific-popup.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/nice-select.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/owl.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/rtl.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/scrollbar.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/swiper.min.css')}}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+
+
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/aos.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/custom-animate.css">
+    <link rel="stylesheet" href="assets/css/fancybox.min.css">
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/icomoon.css">
+    <link rel="stylesheet" href="assets/css/imp.css">
+    <link rel="stylesheet" href="assets/css/jquery.bootstrap-touchspin.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/rtl.css">
+    <link rel="stylesheet" href="assets/css/scrollbar.css">
+    <link rel="stylesheet" href="assets/css/swiper.min.css">
 
     <!-- Module css -->
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/header-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/banner-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/about-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/blog-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/fact-counter-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/faq-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/contact-page.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/breadcrumb-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/team-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/partner-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/testimonial-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/services-section.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/module-css/footer-section.css')}}">
+    <link rel="stylesheet" href="assets/css/module-css/header-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/banner-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/about-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/blog-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/fact-counter-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/faq-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/contact-page.css">
+    <link rel="stylesheet" href="assets/css/module-css/breadcrumb-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/team-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/partner-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/testimonial-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/services-section.css">
+    <link rel="stylesheet" href="assets/css/module-css/footer-section.css">
 
-    <link href="{{asset('assets/css/color/theme-color.css')}}" id="jssDefault" rel="stylesheet">
-    
-    <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
-    <link rel="stylesheet" href="{{asset('assets/css/responsive.css')}}">
+    <link href="assets/css/color/theme-color.css" id="jssDefault" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/images/favicon/apple-touch-icon.png')}}">
-    <link rel="icon" type="image/png" href="{{asset('assets/images/favicon/favicon-32x32.png')}}" sizes="32x32">
-    <link rel="icon" type="image/png" href="{{asset('assets/images/favicon/favicon-16x16.png')}}" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="assets/images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="assets/images/favicon/favicon-16x16.png" sizes="16x16">
 
     <!-- Fixing Internet Explorer-->
     <!--[if lt IE 9]>
@@ -79,7 +75,6 @@
 <body>
 
     <div class="boxed_wrapper ltr">
-
         <!-- preloader -->
         <div class="loader-wrap">
             <div class="preloader">
@@ -113,7 +108,6 @@
                                 b
                             </span>
                         </div> -->
-
                     </div>
                 </div>
             </div>
@@ -130,7 +124,7 @@
         <!-- switcher menu -->
         <div class="switcher">
             <div class="switch_btn">
-                <button><img src="{{asset('assets/images/icon/color-palette.png')}}" alt="Color Palette"> </button>
+                <button><img src="assets/images/icon/color-palette.png" alt="Color Palette"> </button>
             </div>
             <div class="switch_menu">
                 <!-- color changer -->
@@ -162,7 +156,8 @@
 
 
         <!-- Main header-->
-        @include('header')
+         @include('header')
+
 
         <!-- Start Main Slider -->
         <section class="main-slider style1 nav-style2">
@@ -212,7 +207,7 @@
 
                     <!-- Slide -->
                     <div class="slide">
-                        <div class="image-layer" style="background-image:url({{asset('assets/images/slides/slide-v1-2.jpg')}});">
+                        <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-2.jpg)">
                         </div>
                         <div class="auto-container">
                             <div class="content middle text-center">
@@ -805,81 +800,8 @@
         </section>
         <!--End Fact Counter Area-->
 
-        <!--Start Teaching Area-->
-        <!-- <section class="teaching-area">
-            <div class="auto-container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="teaching-content">
-                            <div class="sec-title">
-                                <h2>Excellence in Teaching<br> and Learning </h2>
-                                <div class="sub-title">
-                                    <p>Welcomed every pain avoided but in certain circumstances owing to the claims of
-                                        duty or the obligations of business it will frequently occurs that pleasures.
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="inner-title">
-                                <div class="border-line"></div>
-                                <h3>Provide Endless Opportunities</h3>
-                            </div>
-                            <ul>
-                                <li>
-                                    <div class="dot-box"></div>
-                                    A higher education qualification
-                                </li>
-                                <li>
-                                    <div class="dot-box"></div>
-                                    Better career prospects
-                                </li>
-                                <li>
-                                    <div class="dot-box"></div>
-                                    Valuable employability skills
-                                </li>
-                                <li>
-                                    <div class="dot-box"></div>
-                                    Personal development time
-                                </li>
-                            </ul>
-                            <div class="btns-box">
-                                <a class="btn-one" href="about.html">
-                                    <span class="txt">Read More</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-6">
-                        <div class="teaching-img-box">
-                            <div class="teaching-img-box__bg"
-                                style="background-image: url(assets/images/resources/teaching-img.jpg);"></div>
-                            <div class="teaching-img-box__content-bg"></div>
-                            <div class="teaching-img-box__content" data-aos="fade-left">
-                                <div class="border-line"></div>
-                                <h3>“We’re globally
-                                    recognised for delivering
-                                    impactful research that
-                                    drives positive change.”
-                                </h3>
-                                <div class="authorized-person">
-                                    <div class="signature">
-                                        <img src="assets/images/resources/signature.png" alt="">
-                                    </div>
-                                    <h4>Richard Nicholas</h4>
-                                    <p>[ President ]</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section> -->
-        <!--End Teaching Area-->
-
         <!--Start Statements Area-->
-        <!-- <section class="statements-area">
+        <section class="statements-area">
             <div class="auto-container">
                 <div class="row">
 
@@ -963,7 +885,7 @@
 
                 </div>
             </div>
-        </section> -->
+        </section>
         <!--End Statements Area-->
 
         <!--Start Research Area-->
@@ -1256,22 +1178,21 @@
 							          <textarea name="form_message" type="text" class="form-control required"  placeholder="Enter Message"></textarea>
 					              </div>
                                </div> 
-						</div>
-                        <div class="btns-box">
+                               <div class="btns-box">
                                     <a class="btn-one" href="#">
                                         <span class="txt">Send Message</span>
                                     </a>
-                        </div>
+                               </div>
                                 </form>
                             </div>
-
                         </div>
                     </div>
                 </div>
             </div>
         </section>
         <!--End Virtual Store Area-->
-        <!-- People worknig in the mnc -->
+
+        <!-- Placed People in Canada start -->
         <section class="research-area">
             <div class="auto-container">
 
@@ -1509,7 +1430,7 @@
                 </div>
             </div>
         </section>
-        <!-- End people working in the mnc -->
+        <!-- End -->
 
         <!--Start Events Style1 Area-->
         <section class="event-style1-area">
@@ -2100,10 +2021,6 @@
         </section>
         <!--End Blog Style1 Area-->
 
-        <!--Start social activity Area-->
-    
-        <!--End social activity Area-->
-
         <!--Start Partner Area-->
         <section class="partner-area">
             <div class="container">
@@ -2175,7 +2092,6 @@
                     <!--End Single Partner Logo Box-->
                 </div>
 
-
             </div>
         </section>
         <!--End Partner Area-->
@@ -2203,9 +2119,182 @@
         </section>
         <!--End Slogan Style1 Area-->
 
-     
-                @include('footer')
-    
+
+        <div class="bottom-parallax">
+            <!--Start footer area -->
+            <footer class="footer-area">
+                <!--Start Footer-->
+                <div class="footer">
+                    <div class="container">
+                        <div class="row text-right-rtl">
+
+                            <!--Start single footer widget-->
+                            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                                <div class="single-footer-widget marbtm50">
+                                    <div class="title">
+                                        <div class="dotted"></div>
+                                        <h3>Our Campus</h3>
+                                    </div>
+                                    <div class="our-company-info">
+                                        <div class="text-box">
+                                            <p>Trouble that are bound to ensue equal blame belongs to those all
+                                                fail their duty we like best every pleasure is to welcomed.</p>
+                                        </div>
+                                        <ul>
+                                            <li>
+                                                <div class="icon">
+                                                    <span class="icon-map"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <a href="#">Campus Map</a>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon">
+                                                    <span class="icon-chat"></span>
+                                                </div>
+                                                <div class="text">
+                                                    <a href="contact.html">Request for Consult</a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End single footer widget-->
+
+                            <!--Start single footer widget-->
+                            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                                <div class="single-footer-widget single-footer-widget--link-box marbtm50">
+                                    <div class="title">
+                                        <div class="dotted"></div>
+                                        <h3>Academic Life</h3>
+                                    </div>
+                                    <div class="footer-widget-links">
+                                        <ul>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="icon-right-arrow-2"></span>IB & Subject
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="icon-right-arrow-2"></span>Learning Culture
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="icon-right-arrow-2"></span>Teaching & Learning Support
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="icon-right-arrow-2"></span>Student Research
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="icon-right-arrow-2"></span>University Guidance
+                                                </a>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End single footer widget-->
+
+                            <!--Start single footer widget-->
+                            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                                <div class="single-footer-widget single-footer-widget--link-box">
+                                    <div class="title">
+                                        <div class="dotted"></div>
+                                        <h3>Admissions</h3>
+                                    </div>
+                                    <div class="footer-widget-links">
+                                        <ul>
+                                            <li>
+                                                <a href="about.html">
+                                                    <span class="icon-right-arrow-2"></span>About Admission
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="icon-right-arrow-2"></span>How to Apply
+                                                    <sup>*[Open]</sup>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="icon-right-arrow-2"></span>Scholarship
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="icon-right-arrow-2"></span>Nomination & Acceptance
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="#">
+                                                    <span class="icon-right-arrow-2"></span>Question & Answer
+                                                </a>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End single footer widget-->
+
+                            <!--Start single footer widget-->
+                            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12">
+                                <div class="single-footer-widget pdtop50">
+                                    <div class="title">
+                                        <div class="dotted"></div>
+                                        <h3>Get in Touch</h3>
+                                    </div>
+                                    <div class="footer-widget-contact-info">
+                                        <p>Educamb University 6500 NW Brook Park Drive Jacksonville, USA
+                                            32034.</p>
+                                        <ul>
+                                            <li><a href="tel:123456789">815-641-5000</a></li>
+                                            <li><a href="mailto:yourmail@email.com">support@educamb.com</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End single footer widget-->
+
+                        </div>
+                    </div>
+                </div>
+                <!--End Footer-->
+
+                <div class="footer-bottom">
+                    <div class="container">
+                        <div class="bottom-inner">
+                            <div class="copyright">
+                                <p>Copyright &copy; 2022 <a href="index.html">Educamb.</a> All Rights Reserved.</p>
+                            </div>
+                            <div class="footer-logo-style1">
+                                <a href="index.html">
+                                    <img src="assets/images/footer/footer-logo.png" alt="Awesome Logo" title="">
+                                </a>
+                            </div>
+                            <div class="footer-menu">
+                                <ul>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Term Of Use</a></li>
+                                    <li><a href="#">Support</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </footer>
+            <!--End footer area-->
+        </div>
 
 
         <button class="scroll-top scroll-to-target" data-target="html">
@@ -2243,37 +2332,37 @@
 
 
 
-    <script src="{{asset('assets/js/jquery.js')}}"></script>
-    <script src="{{asset('assets/js/aos.js')}}"></script>
-    <script src="{{asset('assets/js/appear.js')}}"></script>
-    <script src="{{asset('assets/js/bootstrap.bundle.min.js')}}"></script>
-    <script src="{{asset('assets/js/isotope.js')}}"></script>
-    <script src="{{asset('assets/js/jquery.bootstrap-touchspin.js')}}"></script>
-    <script src="{{asset('assets/js/jquery.countTo.js')}}"></script>
-    <script src="{{asset('assets/js/jquery.easing.min.js')}}"></script>
-    <script src="{{asset('assets/js/jquery.event.move.js')}}"></script>
-    <script src="{{asset('assets/js/jquery.fancybox.js')}}"></script>
-    <script src="{{asset('assets/js/jquery.magnific-popup.min.js')}}"></script>
-    <script src="{{asset('assets/js/jquery.nice-select.min.js')}}"></script>
-    <script src="{{asset('assets/js/jquery.paroller.min.js')}}"></script>
-    <script src="{{asset('assets/js/jquery-sidebar-content.js')}}"></script>
-    <script src="{{asset('assets/js/knob.js')}}"></script>
-    <script src="{{asset('assets/js/map-script.js')}}"></script>
-    <script src="{{asset('assets/js/owl.js')}}"></script>
-    <script src="{{asset('assets/js/pagenav.js')}}"></script>
-    <script src="{{asset('assets/js/scrollbar.js')}}"></script>
-    <script src="{{asset('assets/js/swiper.min.js')}}"></script>
-    <script src="{{asset('assets/js/tilt.jquery.js')}}"></script>
-    <script src="{{asset('assets/js/TweenMax.min.js')}}"></script>
-    <script src="{{asset('assets/js/validation.js')}}"></script>
-    <script src="{{asset('assets/js/wow.js')}}"></script>
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/aos.js"></script>
+    <script src="assets/js/appear.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/jquery.bootstrap-touchspin.js"></script>
+    <script src="assets/js/jquery.countTo.js"></script>
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/jquery.event.move.js"></script>
+    <script src="assets/js/jquery.fancybox.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/jquery.paroller.min.js"></script>
+    <script src="assets/js/jquery-sidebar-content.js"></script>
+    <script src="assets/js/knob.js"></script>
+    <script src="assets/js/map-script.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/pagenav.js"></script>
+    <script src="assets/js/scrollbar.js"></script>
+    <script src="assets/js/swiper.min.js"></script>
+    <script src="assets/js/tilt.jquery.js"></script>
+    <script src="assets/js/TweenMax.min.js"></script>
+    <script src="assets/js/validation.js"></script>
+    <script src="assets/js/wow.js"></script>
 
-    <script src="{{asset('assets/js/jquery-1color-switcher.min.js')}}"></script>
-    <script src="{{asset('assets/js/parallax.min.js')}}"></script>
-    <script src="{{asset('assets/js/skrollr.min.js')}}"></script>
+    <script src="assets/js/jquery-1color-switcher.min.js"></script>
+    <script src="assets/js/parallax.min.js"></script>
+    <script src="assets/js/skrollr.min.js"></script>
 
     <!-- thm custom script -->
-    <script src="{{asset('assets/js/custom.js')}}"></script>
+    <script src="assets/js/custom.js"></script>
 
 
 
