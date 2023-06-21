@@ -104,7 +104,7 @@
                         <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                             <ul class="navigation clearfix">
                                  <li><a href="/">Home</a></li>
-                                 <li><a href="/">Why Canada?</a></li>
+                                 <li><a href="/whycanada">Why Canada?</a></li>
                                 <li class="dropdown"><a href="#">Immigration Dreamz</a>
                                     <ul>
                                         <li><a href="about.html">Your true guide to Canada</a></li>

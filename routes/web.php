@@ -28,3 +28,6 @@ Route::get('/bloglarge', function () {
 Route::get('/blogdetails', function () {
     return view('blog.blogdetails');
 });
+Route::get('/whycanada', function () {
+    return view('whycanada');
+});

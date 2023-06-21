@@ -167,7 +167,7 @@
 
                     <!-- Slide -->
                     <div class="slide">
-                        <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-1.jpg)">
+                        <div class="image-layer" style="background-image:url(assets/images/slides/banner-03.jpg)">
                         </div>
                         <div class="auto-container">
                             <div class="content">
@@ -175,7 +175,7 @@
                                     <h2>You Can Live Student<br> Life To Its Fullest</h2>
                                 </div>
                                 <div class="text">
-                                    <p>Make your studies worth living With Educamb</p>
+                                    <p>Make your studies worth living With Immigration Dreamz</p>
                                 </div>
                                 <div class="btns-box">
                                     <a class="btn-one" href="about.html">
@@ -183,23 +183,6 @@
                                             Read More
                                         </span>
                                     </a>
-                                    <a class="btn-one style2" href="campus-life.html">
-                                        <span class="txt">
-                                            Campus Life
-                                        </span>
-                                    </a>
-                                </div>
-                                <div class="video-gallery-btns-box">
-                                    <a class="video-popup" title="Video Gallery"
-                                        href="https://www.youtube.com/watch?v=bO4RoQL9H8I">
-                                        <span class="icon-play"></span>
-                                    </a>
-                                    <p>
-                                        <a class="video-popup" title="Video Gallery"
-                                            href="https://www.youtube.com/watch?v=bO4RoQL9H8I">
-                                            360<span style="font-size: 20px;">&#176;</span> Campus Tour
-                                        </a>
-                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -207,15 +190,15 @@
 
                     <!-- Slide -->
                     <div class="slide">
-                        <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-2.jpg)">
+                        <div class="image-layer" style="background-image:url(assets/images/slides/banner-02.jpg)">
                         </div>
                         <div class="auto-container">
                             <div class="content middle text-center">
                                 <div class="big-title">
-                                    <h2>Let’s Build Your<br> Future With Educamb</h2>
+                                    <h2>Let’s Build Your<br> Future With Immigration Dreamz</h2>
                                 </div>
                                 <div class="text">
-                                    <p>Not sure what to study? Download Our Guide</p>
+                                    <p>Immigration Dreamz provides personalized support and takes the time to understand your goals and interest</p>
                                 </div>
                                 <div class="btns-box">
                                     <a class="btn-one" href="about.html">
@@ -223,23 +206,6 @@
                                             Read More
                                         </span>
                                     </a>
-                                    <a class="btn-one style2" href="#">
-                                        <span class="txt">
-                                            Download
-                                        </span>
-                                    </a>
-                                </div>
-                                <div class="video-gallery-btns-box">
-                                    <a class="video-popup" title="Video Gallery"
-                                        href="https://www.youtube.com/watch?v=bO4RoQL9H8I">
-                                        <span class="icon-play"></span>
-                                    </a>
-                                    <p>
-                                        <a class="video-popup" title="Video Gallery"
-                                            href="https://www.youtube.com/watch?v=bO4RoQL9H8I">
-                                            360<span style="font-size: 20px;">&#176;</span> Campus Tour
-                                        </a>
-                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -247,7 +213,7 @@
 
                     <!-- Slide -->
                     <div class="slide">
-                        <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-3.jpg)">
+                        <div class="image-layer" style="background-image:url(assets/images/slides/banner-01.jpg)">
                         </div>
                         <div class="auto-container">
                             <div class="content">
@@ -255,7 +221,9 @@
                                     <h2>Degree That’s<br> Right For Your Future</h2>
                                 </div>
                                 <div class="text">
-                                    <p>With more than 75 major & minor areas of study</p>
+                                    <p>Immigration Dreamz offers assistance with university/college selection, application guidance, visa support, scholarship information, and other necessary support throughout the process.
+
+</p>
                                 </div>
                                 <div class="btns-box">
                                     <a class="btn-one" href="about.html">
@@ -263,23 +231,6 @@
                                             Read More
                                         </span>
                                     </a>
-                                    <a class="btn-one style2" href="departments.html">
-                                        <span class="txt">
-                                            Departments
-                                        </span>
-                                    </a>
-                                </div>
-                                <div class="video-gallery-btns-box">
-                                    <a class="video-popup" title="Video Gallery"
-                                        href="https://www.youtube.com/watch?v=bO4RoQL9H8I">
-                                        <span class="icon-play"></span>
-                                    </a>
-                                    <p>
-                                        <a class="video-popup" title="Video Gallery"
-                                            href="https://www.youtube.com/watch?v=bO4RoQL9H8I">
-                                            360<span style="font-size: 20px;">&#176;</span> Campus Tour
-                                        </a>
-                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -303,7 +254,7 @@
                                     <div class="single-features-style1">
                                         <div class="text-box">
                                             <h2><a href="#">Our<br> Community</a></h2>
-                                            <p><span>*</span> Story About educamb</p>
+                                            <p><span>*</span> Story About Immigration Dreamz</p>
                                         </div>
                                         <div class="img-box">
                                             <img src="assets/images/resources/features-style1-img-1.jpg" alt="">
@@ -319,7 +270,7 @@
                                     <div class="single-features-style1">
                                         <div class="text-box">
                                             <h2><a href="#">Global<br> Campuses</a></h2>
-                                            <p><span>*</span> Story About educamb</p>
+                                            <p><span>*</span> Story About Immigration Dreamz</p>
                                         </div>
                                         <div class="img-box">
                                             <img src="assets/images/resources/features-style1-img-2.jpg" alt="">
@@ -449,11 +400,9 @@
                                 <div class="round-box"></div>
                             </div>
                             <div class="text-holder">
-                                <a href="#">Accounting</a>
+                                <a href="#">Services</a>
                                 <div class="text">
-                                    <p>To take a trivial example which of us
-                                        ever undertakes laborious physical exercise
-                                        to obtain some advantage.</p>
+                                    <p>We offers assistance with university/college selection, application guidance, visa support, scholarship information.</p>
                                 </div>
                             </div>
                         </div>
@@ -466,11 +415,9 @@
                                 <div class="round-box"></div>
                             </div>
                             <div class="text-holder">
-                                <a href="#">Computer</a>
+                                <a href="#">Expert Consultation</a>
                                 <div class="text">
-                                    <p>Indignation and dislike men who
-                                        are so beguileds and demoralized by that
-                                        of pleasure of the moment.</p>
+                                    <p>Our team in Canada and also in india, provides consultation and gives you the precise information and suggestions.</p>
                                 </div>
                             </div>
                         </div>
@@ -482,7 +429,7 @@
                         <div class="departments-img-box">
                             <img src="assets/images/resources/departments-img.jpg" alt="">
                             <div class="departments-img-box__content">
-                                <ul>
+                                <!-- <ul>
                                     <li>
                                         <h3><a href="#">Under Graduate</a></h3>
                                         <p>Minor / Major</p>
@@ -495,7 +442,7 @@
                                         <h3><a href="#">Graduate</a></h3>
                                         <p>Master of Science</p>
                                     </li>
-                                </ul>
+                                </ul> -->
                             </div>
                         </div>
                     </div>
@@ -509,11 +456,9 @@
                                 <div class="round-box"></div>
                             </div>
                             <div class="text-holder">
-                                <a href="#">Business</a>
+                                <a href="#">Personalized Approach</a>
                                 <div class="text">
-                                    <p>Indignation and dislike men who
-                                        are so beguileds and demoralized by that
-                                        of pleasure of the moment.</p>
+                                    <p>We provide tailored advice and guidance based on your specific needs.</p>
                                 </div>
                             </div>
                         </div>
@@ -526,11 +471,9 @@
                                 <div class="round-box"></div>
                             </div>
                             <div class="text-holder">
-                                <a href="#">Health Sciences</a>
+                                <a href="#">Transparent Fee Structure</a>
                                 <div class="text">
-                                    <p>To take a trivial example which of us
-                                        ever undertakes laborious physical exercise
-                                        to obtain some advantage.</p>
+                                    <p>A transparent fee structure, clearly outlining the services included and any additional charges.</p>
                                 </div>
                             </div>
                         </div>
@@ -815,7 +758,7 @@
                     <div class="col-xl-6">
                         <div class="statements-content-box">
                             <div class="sec-title">
-                                <h2>Statement of Educamb<br> University</h2>
+                                <h2>Statement of Immigration<br> Dreamz</h2>
                             </div>
                             <div class="statements-content-box__inner">
                                 <div class="theme_carousel statements-carousel owl-theme owl-carousel owl-nav-style-one"
@@ -843,18 +786,15 @@
                                         <div class="single-statements-item">
                                             <div class="icon"></div>
                                             <div class="text">
-                                                <h3>Mission Statement</h3>
-                                                <p>The same as saying through shrinking from toil & pain
-                                                    these cases are perfectly simple and easy distinguish
-                                                    in a free hour when our power.</p>
+                                                <h3>Our Mission</h3>
+                                                <p>To  provide guidance, support, and expertise to students who are seeking educational opportunities in Canadian institutions.</p>
                                             </div>
                                         </div>
                                         <div class="single-statements-item">
                                             <div class="icon"></div>
                                             <div class="text">
-                                                <h3>Vision Statement</h3>
-                                                <p>Lirinking from toil & pain these cases are perfectly in
-                                                    simple easy distinguish.</p>
+                                                <h3>Our Vision</h3>
+                                                <p>We are dedicated towards providing comprehensive guidance and support to students.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -862,18 +802,15 @@
                                         <div class="single-statements-item">
                                             <div class="icon"></div>
                                             <div class="text">
-                                                <h3>Mission Statement</h3>
-                                                <p>The same as saying through shrinking from toil & pain
-                                                    these cases are perfectly simple and easy distinguish
-                                                    in a free hour when our power.</p>
+                                                <h3>Our Mission</h3>
+                                                <p>Assist students in exploring various universities, colleges, programs, and courses.</p>
                                             </div>
                                         </div>
                                         <div class="single-statements-item">
                                             <div class="icon"></div>
                                             <div class="text">
-                                                <h3>Vision Statement</h3>
-                                                <p>Lirinking from toil & pain these cases are perfectly in
-                                                    simple easy distinguish.</p>
+                                                <h3>Our Vision</h3>
+                                                <p>The aim is to help students navigate the complex process of studying abroad and make informed decisions regarding their education and future.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1142,8 +1079,7 @@
                             <div class="sec-title">
                                 <h2>Need Any Help?<br>Get in touch with us</h2>
                                 <div class="sub-title">
-                                    <p>For a customized list of course materials, use our course
-                                        materials finder.
+                                    <p>
                                     </p>
                                 </div>
                             </div>
@@ -1438,7 +1374,7 @@
                 <div class="sec-title text-center">
                     <h2>What's Coming up?</h2>
                     <div class="sub-title">
-                        <p>Business it will frequently occur that pleasures have to repudiated and accepted.</p>
+                        <p>Our online live sessions.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -1467,7 +1403,7 @@
                                             </div>
                                             <h3>
                                                 <a href="events-details.html">
-                                                    Women's Basketball at National<br> Indoor Court
+												Educational Opportunities<br> Webinar
                                                 </a>
                                             </h3>
                                         </div>
@@ -1489,7 +1425,7 @@
                                             </div>
                                             <h3>
                                                 <a href="events-details.html">
-                                                    Twenty Minutes Still Meditation<br> in Bond
+                                                    Career Guidance<br> Webinar
                                                 </a>
                                             </h3>
                                         </div>
@@ -1511,7 +1447,7 @@
                                             </div>
                                             <h3>
                                                 <a href="events-details.html">
-                                                    Student Art Exhibit - Chairs by<br> Interior Design Students
+                                                    Future Scope in Canada<br> Webinar
                                                 </a>
                                             </h3>
                                         </div>
